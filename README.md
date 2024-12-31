@@ -1,5 +1,5 @@
 # AI Weekly Insights
-Seguimiento semanal de tendencias en IA, ML y Computación Cuántica
+Seguimiento semanal de tendencias en IA y ML
 
 ## Objetivo
 Repositorio dedicado al seguimiento y análisis de las últimas tendencias en:
